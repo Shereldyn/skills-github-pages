@@ -1,5 +1,5 @@
 ---
 title: "first-post"
 date: 2026-09-27
-description: This is my first post
 ---
+# This is my first post
